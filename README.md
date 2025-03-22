@@ -1,5 +1,4 @@
 # MetaFusion-Instance-Aware-Meta-Prompting-and-Token-Refinement-for-VLMs-Generalization
-Overview of our MetaFusion
 ![图片](https://github.com/user-attachments/assets/6cbc2f99-761b-4216-acac-93fb8a0ef779)
 
 ## Exp
